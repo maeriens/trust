@@ -1,37 +1,37 @@
-!["The Evolution of Trust"](https://i.imgur.com/kde760y.png)
+!["La Evoluci&oacute;n de la Confianza"](https://i.imgur.com/kde760y.png)
 
-#	PLAY IT HERE: [http://ncase.me/trust/](http://ncase.me/trust/)
+#	JUEGA AQU&Iacute;: [http://maeriens.github.io/trust/](http://maeriens.github.io/trust/)
 
-*The Evolution of Trust* is dedicated to the public domain, and is made thanks to the many Creative Commons & open source resources out there! Here is a full list of music, sounds, and code used:
+*La Evoluci&oacute;n de la Confianza es de p&uacute;blico dominio, y fue hecho gracias a Crative Commons & herramientas de c&oacute;digo abierto que hay disponibles. Aqu&iacute; est&aacute; la lista completa de m&uacute;sica, sonidos y c&oacute;digo que utilic&eacute;:
 
-**Music:** "Bleu" by Komiku (CC Zero). [Download their full album on Free Music Archive](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
+**M&uacute;sica:** "Bleu" por Komiku (CC Zero). [Descarga el disco completo en Free Music Archive](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
 
-**Sound Effects:**
+**Efectos de Sonido:**
 
-* [Coin insert](https://freesound.org/people/bassmosphere/sounds/384700/) by bassmosphere (CC Zero)
-* [Coin get!](https://freesound.org/people/plasterbrain/sounds/242857/) by plasterbrain (CC Zero)
-* [Evil Laugh](https://freesound.org/people/JohnsonBrandEditing/sounds/173933/) by JohnsonBrandEditing (CC Zero)
-* [Slot machine](https://freesound.org/people/lukaso/sounds/69689/) by lukaso (CC Sampling+)
-* [Drumroll](https://freesound.org/people/adriann/sounds/191718/) by adriann (CC Zero)
-* [click plink pop boop bonk](https://freesound.org/people/Owdeo/sounds/116653/) by Owdeo (CC BY-NC)
-* [Swoosh](https://freesound.org/people/aglinder/sounds/264468/) by aglinder (CC Zero)
-* [Squeaky Toy](https://freesound.org/people/survivalzombie/sounds/240015/) by survivalzombie (CC Zero)
-* [Thump](https://freesound.org/people/Brokenphono/sounds/344149/) by Brokenphono (CC Zero)
-* [Fart](https://freesound.org/people/DSISStudios/sounds/241000/) by DSISStudios (CC Zero)
+* [Insertar moneda](https://freesound.org/people/bassmosphere/sounds/384700/) por bassmosphere (CC Zero)
+* [Recibir moneda!](https://freesound.org/people/plasterbrain/sounds/242857/) por plasterbrain (CC Zero)
+* [Risa Malvada](https://freesound.org/people/JohnsonBrandEditing/sounds/173933/) por JohnsonBrandEditing (CC Zero)
+* [Tragamonedas](https://freesound.org/people/lukaso/sounds/69689/) por lukaso (CC Sampling+)
+* [Redobles](https://freesound.org/people/adriann/sounds/191718/) por adriann (CC Zero)
+* [click plink pop boop bonk](https://freesound.org/people/Owdeo/sounds/116653/) por Owdeo (CC BY-NC)
+* [Swoosh](https://freesound.org/people/aglinder/sounds/264468/) por aglinder (CC Zero)
+* [Juguete](https://freesound.org/people/survivalzombie/sounds/240015/) por survivalzombie (CC Zero)
+* [Ca&iacute;da](https://freesound.org/people/Brokenphono/sounds/344149/) por Brokenphono (CC Zero)
+* [Flatulencia](https://freesound.org/people/DSISStudios/sounds/241000/) por DSISStudios (CC Zero)
 
-**Open Source Libraries:**
+**Librer&iacute;as de C&oacute;digo Abierto:**
 
-* [PIXI.js](http://www.pixijs.com/) for rendering graphics
-* [Howler.js](https://howlerjs.com/) for the audio
-* [Tween.js](http://www.createjs.com/tweenjs) for tweening animation
-* [Balloon.css](https://kazzkiq.github.io/balloon.css/) for pop-up tooltips
-* [Q](https://github.com/kriskowal/q/) for promises
-* [MinPubSub](https://github.com/daniellmb/MinPubSub) for publish/subscribe
-* [Pegasus](https://github.com/typicode/pegasus) for me being too lazy to write my own XHR
+* [PIXI.js](http://www.pixijs.com/) para renderizado de gr&aacute;ficos
+* [Howler.js](https://howlerjs.com/) para el audio
+* [Tween.js](http://www.createjs.com/tweenjs) para la animaci&oacute;n
+* [Balloon.css](https://kazzkiq.github.io/balloon.css/) para los textos de aviso
+* [Q](https://github.com/kriskowal/q/) para promises
+* [MinPubSub](https://github.com/daniellmb/MinPubSub) para publicar/subscribir
+* [Pegasus](https://github.com/typicode/pegasus) porque fui vago como para hacer mi propio XHR
 
-**Font:** [Futura Handwritten](http://www.dafont.com/futurahandwritten.font) by Bill Snyder
+**Fuente:** [Futura Handwritten](http://www.dafont.com/futurahandwritten.font) por Bill Snyder
 
-#	How-To: Translate this thang!
+#	Tu: Translate this thang!
 
 **[IMPORTANT:
 BEFORE YOU DECIDE TO MAKE A TRANSLATION, CHECK THE "ISSUES" TAB ABOVE,
