@@ -18,7 +18,7 @@ body{
 
 	font-family: 'FuturaHandwritten';
 	color: #333;
-	font-size: 20px;
+	font-size: 18px;
 
 }
 #preloader{
@@ -52,11 +52,11 @@ s{
 
 #translations{
 	margin: 10px auto;
-    font-size: 15px;
+    font-size: 14px;
     line-height: 21px;
     color: #fff;
     text-align: center;
-    width: 800px;
+    width: 850px;
 }
 #translations a{
 	color:#dd4040;
@@ -258,10 +258,10 @@ s{
 .button[size=long] #background{
 	background: url(../assets/ui/button_long.png);
 	background-size: 100%;
-	width:400px;
+	width:410px;
 }
 .button[size=long] #text{
-	width:330px;
+	width:335px;
 	top: 11px;
 }
 .button[size=long] #hitbox{
