@@ -41,26 +41,27 @@ And if no one else is, PLEASE CREATE A NEW ISSUE in this repo
 so that others know you're working on it!]**
 
 Translations done so far:
-[Alemán](https://jkoelling.github.io/trust/),
-[Árabe](https://mudaraljundi.github.io/trust/),
-[Búlgaro](http://ncase.me/trust-bg/),
-[Catalán](https://fbricart.github.io/trust/),
-[Chino (Simplificado)](https://sekai.co/trust/),
-[Chino (Taiwan)](https://audreyt.github.io/trust-zh-TW/),
-[Coreano](https://osori.github.io/trust-ko/),
-[Español de Espa&ntilde;a](https://ccamara.github.io/trust/),
-[Español Latino](http://maeriens.github.io/trust/),
-[Frances](https://ayowel.github.io/trust/),
-[Griego](https://lightspot21.github.io/trust/),
-[Húngaro](http://ncase.me/trust-hu/),
-[Italiano](https://lvdt.github.io/trust/),
-[Persa/Farsi](https://hamed.github.io/trust/),
-[Polaco](https://sin.github.io/trust/),
-[Portugués Brasileño](https://brunolemos.github.io/trust/),
-[Rumano](https://github.com/enFactorial/trust)
-[Ruso](https://notdotteam.github.io/trust/),
-[Turco](https://osaatcioglu.github.io/trust),
-[Vietnamita](https://nghiatt90.github.io/trust-vn/),
+[Japanese](https://htlife.github.io/trust_jp/),
+[Chinese (Simplified)](https://sekai.co/trust/),
+[Chinese (Taiwan)](https://audreyt.github.io/trust-zh-TW/),
+[Brazilian Portuguese](https://brunolemos.github.io/trust/),
+[French](https://ayowel.github.io/trust/),
+[Spain Spanish](https://ccamara.github.io/trust/),
+[Latin American Spanish](https://maeriens.github.io/trust/),
+[Russian](https://notdotteam.github.io/trust/),
+[German](https://jkoelling.github.io/trust/),
+[Italian](https://lvdt.github.io/trust/),
+[Turkish](https://osaatcioglu.github.io/trust),
+[Polish](https://sin.github.io/trust/),
+[Vietnamese](https://nghiatt90.github.io/trust-vn/),
+[Greek](https://lightspot21.github.io/trust/),
+[Persian/Farsi](https://hamed.github.io/trust/),
+[Hungarian](http://ncase.me/trust-hu/),
+[Catalan](https://fbricart.github.io/trust/),
+[Arabic](https://mudaraljundi.github.io/trust/),
+[Bulgarian](http://ncase.me/trust-bg/),
+[Korean](https://osori.github.io/trust-ko/),
+[Romanian](https://enfactorial.github.io/trust/)
 
 **Step 1)** Fork or download this repo    
 (if you're forking it, be sure to make sure *your* repo is on a branch called `gh-pages`, so that GitHub can automatically generate a webpage for it!)
