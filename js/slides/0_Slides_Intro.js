@@ -112,13 +112,19 @@ SLIDES.push({
 		// Circular Wordbox
 		self.add({
 			id:"intro_text", type:"TextBox",
-			x:130, y:10, width:700, height:500, align:"center",
+			x:130, y:10, width:700, height:700, align:"center", size:"1.09rem",
 			text_id:"intro"
 		});
+		var _showYear = function(){
+			var currentYear = Words.get("intro");
+			currentYear = currentYear.replace(/\[X\]/g, new Date().getFullYear());
+			self.objects.intro_text.setText(currentYear);
+		};
+		_showYear();
 
 		// Button
 		self.add({
-			id:"intro_button", type:"Button", x:304, y:466, size:"long",
+			id:"intro_button", type:"Button", x:304, y:476, size:"long",
 			text_id:"intro_button", 
 			message:"slideshow/scratch"
 		});
